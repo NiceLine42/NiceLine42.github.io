@@ -3,3 +3,11 @@ Here I describe my favorite character in 30-50 words. I would write what I like 
 
 This is supposed to be written in plain text without any specials.
 
+## header to character traits
+
+* trait 1
+* trait 2
+ * trait 2a
+ * trait 2b
+* trait 3
+* trait 4
